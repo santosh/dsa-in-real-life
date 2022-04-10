@@ -1,0 +1,11 @@
+{
+  "name": "covid-fighter",
+  "version": "0.1.0",
+  "description": "2D platformer game with a Covid theme.",
+  "main": "fighter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santosh Kumar",
+  "license": "ISC"
+}
